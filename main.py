@@ -12,7 +12,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.metrics import accuracy_score
 
-st.title('Machinne Learning')
+st.title('Machine Learning')
 
 st.write("""
 # Explore different classifier and datasets
